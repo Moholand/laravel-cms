@@ -10,6 +10,6 @@
     <li>Soft delete and Force delete</li>
     <li>Add Category and tag for posts</li>
 </ul>
-<p>and show the posts with pagination in view</p>
+<p>and show the posts with pagination in view.</p>
 
 ![laravel-cms](https://user-images.githubusercontent.com/73969513/132362530-c87ad8b2-7c4f-4108-859e-f557951be534.png)
